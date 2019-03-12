@@ -1,5 +1,5 @@
 """
-WSGI config for dear_diary project.
+WSGI config for leave_a_note project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
